@@ -1,1 +1,0 @@
-This is a pyhton tutorial powered by the Data Living Community.
